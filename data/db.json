@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "September 02,2024 12:21:54 PM",
+      "body": "Learn HTML from Ace "
+    },
+    {
+      "id": "2",
+      "title": "My Second Post",
+      "datetime": "September 16 2023 12:34:52 AM",
+      "body": "Learn CSS from cyberdude"
+    },
+    {
+      "id": "3",
+      "title": "My Third Post",
+      "datetime": "January 15,2024 1:17:43 PM",
+      "body": "Learn Javascript from Logic First chanel"
+    },
+    {
+      "id": "4",
+      "title": "My Fourth Post",
+      "datetime": "December 22 2023 12:34:52 AM",
+      "body": "Learn React from Balachandra"
+    },
+    {
+      "id": "41",
+      "title": "my fifth post",
+      "datetime": "September 02,2024 12:22:26 PM",
+      "body": "learn node"
+    }
+  ]
+}
